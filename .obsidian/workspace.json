@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a4f7a38aba6f5d",
+        "id": "c8bd466b850849e1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd12d9f1f0e74034",
+            "id": "f73883ea5e5c5ccc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "你好，测试。.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "你好，测试。"
             }
           }
         ]
@@ -173,11 +177,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd12d9f1f0e74034",
+  "active": "f73883ea5e5c5ccc",
   "lastOpenFiles": [
+    "你好，测试。.md",
+    "未命名.base",
     "新建 文本文档.txt"
   ]
 }

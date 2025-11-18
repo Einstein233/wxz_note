@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b972413a38f644ea",
+            "id": "2ccd643ce0517299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "你好，测试。.md",
+                "file": "敦煌智能体构建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你好，测试。"
-            }
-          },
-          {
-            "id": "66cd8632c4190f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "智能体开发技术.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "智能体开发技术"
+              "title": "敦煌智能体构建"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66cd8632c4190f0a",
+  "active": "2ccd643ce0517299",
   "lastOpenFiles": [
-    "你好，测试。.md",
     "智能体开发技术.md",
+    "敦煌智能体构建.md",
+    "你好，测试。.md",
     "未命名.base",
     "新建 文本文档.txt"
   ]

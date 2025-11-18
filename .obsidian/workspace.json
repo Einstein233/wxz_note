@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd064ab7c3e1254",
+        "id": "919c1e6b41080d12",
         "type": "tabs",
         "children": [
           {
-            "id": "2ccd643ce0517299",
+            "id": "7678c79f40ee714b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -187,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ccd643ce0517299",
+  "active": "7678c79f40ee714b",
   "lastOpenFiles": [
-    "未命名.base",
     "2025-11-18.md",
+    "未命名.base",
     "敦煌智能体构建.md",
     "你好，测试。.md",
     "智能体开发技术.md",

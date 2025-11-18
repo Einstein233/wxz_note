@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8bd466b850849e1",
+        "id": "6bd064ab7c3e1254",
         "type": "tabs",
         "children": [
           {
-            "id": "f73883ea5e5c5ccc",
+            "id": "b972413a38f644ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "你好，测试。.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "你好，测试。"
+              "title": "新标签页"
             }
           }
         ]
@@ -181,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f73883ea5e5c5ccc",
+  "active": "b972413a38f644ea",
   "lastOpenFiles": [
     "你好，测试。.md",
     "未命名.base",

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgreSQL.md",
+                "file": "数据库学习/PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3dc3f736081c6fca",
@@ -208,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "677e6209bba8b431",
+  "active": "3479297a58656546",
   "lastOpenFiles": [
+    "数据库学习",
     "敦煌智能体构建.md",
-    "PostgreSQL.md",
+    "数据库学习/PostgreSQL.md",
     "2025-11-18.md",
     "未命名.base",
     "你好，测试。.md",

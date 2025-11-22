@@ -11,10 +11,14 @@
             "id": "b8d6205a1213f3d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工具增强、模型内工具调用能力/论文调研.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "论文调研"
             }
           }
         ]
@@ -190,10 +194,11 @@
   },
   "active": "b8d6205a1213f3d2",
   "lastOpenFiles": [
+    "未命名.md",
+    "工具增强、模型内工具调用能力/论文调研.md",
     "云服务器学习/如何上云.md",
     "工具增强、模型内工具调用能力",
     "大模型微调技术学习",
-    "未命名.md",
     "云服务器学习",
     "敦煌智能体构建.md",
     "数据库学习/基础数据库学习.md",

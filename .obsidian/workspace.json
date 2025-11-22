@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ccb908902924b07",
+        "id": "b2d80ecc983814ec",
         "type": "tabs",
         "children": [
           {
-            "id": "87ecd239a4fb5113",
+            "id": "b8d6205a1213f3d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ecd239a4fb5113",
+  "active": "b8d6205a1213f3d2",
   "lastOpenFiles": [
     "云服务器学习/如何上云.md",
     "工具增强、模型内工具调用能力",

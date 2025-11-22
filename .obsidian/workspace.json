@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d80ecc983814ec",
+        "id": "b4d11234f4df56f9",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d6205a1213f3d2",
+            "id": "7afc38df62a3023a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3dc3f736081c6fca",
@@ -192,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8d6205a1213f3d2",
+  "active": "7afc38df62a3023a",
   "lastOpenFiles": [
-    "未命名.md",
+    "你好，测试。.md",
     "工具增强、模型内工具调用能力/论文调研.md",
+    "未命名.md",
     "云服务器学习/如何上云.md",
     "工具增强、模型内工具调用能力",
     "大模型微调技术学习",
@@ -206,7 +208,6 @@
     "数据库学习",
     "2025-11-18.md",
     "未命名.base",
-    "你好，测试。.md",
     "智能体开发技术.md",
     "新建 文本文档.txt"
   ]

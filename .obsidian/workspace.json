@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3dc3f736081c6fca",
@@ -193,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7afc38df62a3023a",
+  "active": "3479297a58656546",
   "lastOpenFiles": [
+    "实习",
     "你好，测试。.md",
     "工具增强、模型内工具调用能力/论文调研.md",
     "未命名.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文思路/ToolFormer：Language Models Can Teach Themselves to Use Tools.md",
+                "file": "论文思路/工具学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToolFormer：Language Models Can Teach Themselves to Use Tools"
+              "title": "工具学习"
             }
           }
         ]
@@ -196,7 +196,7 @@
   "active": "7afc38df62a3023a",
   "lastOpenFiles": [
     "未命名.md",
-    "论文思路/ToolFormer：Language Models Can Teach Themselves to Use Tools.md",
+    "论文思路/工具学习.md",
     "论文思路/论文的思路.md",
     "工具增强、模型内工具调用能力/论文调研.md",
     "论文思路",

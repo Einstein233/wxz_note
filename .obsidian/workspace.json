@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-12-12.md",
+                "file": "1/记录/2025.12.18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-12"
+              "title": "2025.12.18"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "ca55799b2b79e6f1",
   "lastOpenFiles": [
-    "未命名.md",
+    "未命名 1.md",
+    "1/记录/2025.12.18.md",
     "日记/2025-12-12.md",
+    "未命名.md",
     "日记/2025-11-27.md",
     "论文思路/实验调研思路-12.8.md",
     "论文思路/工具学习.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/todolist.md",
+                "file": "1/开发笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todolist"
+              "title": "开发笔记"
             }
           }
         ]
@@ -194,9 +194,9 @@
   },
   "active": "ca55799b2b79e6f1",
   "lastOpenFiles": [
+    "1/todolist.md",
     "1/开发笔记.md",
     "未命名.md",
-    "1/todolist.md",
     "机器学习笔记/机器学习的学习记录.md",
     "智能体开发技术.md",
     "机器学习笔记",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/开发笔记.md",
+                "file": "1/资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发笔记"
+              "title": "资料"
             }
           }
         ]
@@ -194,9 +194,9 @@
   },
   "active": "ca55799b2b79e6f1",
   "lastOpenFiles": [
+    "1/开发笔记.md",
     "1/资料.md",
     "1/todolist.md",
-    "1/开发笔记.md",
     "论文思路/未命名.md",
     "论文思路/实验调研思路-12.8.md",
     "论文思路/工具学习.md",

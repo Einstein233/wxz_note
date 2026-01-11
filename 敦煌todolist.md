@@ -31,3 +31,24 @@
 关键待取参数：缩放的最大值、最小值、阈值效应参数
 
 得到的数据形式：
+{
+  "light": {
+    "equivalent_total_rain": 1.894,
+    "representative_daily_rain": 0.675,
+    "single_rain_duration_days": 1.0,
+    "rain_event_count": 4
+  },
+  "moderate": {
+    "equivalent_total_rain": 0.0,
+    "representative_daily_rain": 0.0,
+    "single_rain_duration_days": 0.0,
+    "rain_event_count": 0
+  },
+  "heavy": {
+    "equivalent_total_rain": 22.982,
+    "representative_daily_rain": 7.25,
+    "single_rain_duration_days": 1.0,
+    "rain_event_count": 2
+  },
+  "equivalent_total_rain_all": 24.876
+}

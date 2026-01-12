@@ -11,10 +11,14 @@
             "id": "406f6addf6b3d050",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1/todolist.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "todolist"
             }
           }
         ]
@@ -188,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3479297a58656546",
+  "active": "406f6addf6b3d050",
   "lastOpenFiles": [
+    "1/资料.md",
+    "1/开发笔记.md",
     "论文思路/组会要求.md",
     "论文思路/实验调研思路-12.8.md",
     "论文思路/科研思路.md",
@@ -204,8 +210,6 @@
     "敦煌实验方法/降雪工况.md",
     "敦煌实验方法",
     "1/todolist.md",
-    "1/资料.md",
-    "1/开发笔记.md",
     "敦煌智能体构建.md",
     "日记/1-7.md",
     "论文思路/工具学习.md",

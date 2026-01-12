@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/todolist.md",
+                "file": "1/资料/豆包流式语音功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todolist"
+              "title": "豆包流式语音功能"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "406f6addf6b3d050",
   "lastOpenFiles": [
+    "1/todolist.md",
+    "1/资料/豆包流式语音功能.md",
     "1/资料.md",
     "1/开发笔记.md",
     "论文思路/组会要求.md",
@@ -209,7 +211,6 @@
     "论文思路/SoMi-ToM.md",
     "敦煌实验方法/降雪工况.md",
     "敦煌实验方法",
-    "1/todolist.md",
     "敦煌智能体构建.md",
     "日记/1-7.md",
     "论文思路/工具学习.md",
@@ -225,7 +226,6 @@
     "Pasted image 20251208105201.png",
     "Pasted image 20251208105110.png",
     "Pasted image 20251208105104.png",
-    "你好，测试。.md",
     "1/记录",
     "1/资料",
     "实验室文档工作",

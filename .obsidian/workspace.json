@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "SoMi-ToM"
             }
-          },
-          {
-            "id": "65b8ddcd6952a1b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b8ddcd6952a1b7",
+  "active": "406f6addf6b3d050",
   "lastOpenFiles": [
     "论文思路/组会要求.md",
     "论文思路/科研思路.md",

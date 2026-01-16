@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "敦煌实验方法/实现方法/实现细节.md",
+                "file": "敦煌实验方法/实现方法/方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实现细节"
+              "title": "方案"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "69abfe6307124677",
   "lastOpenFiles": [
-    "glowing/总结.md",
     "敦煌实验方法/实现方法/实现细节.md",
+    "敦煌实验方法/实现方法/方案.md",
+    "glowing/总结.md",
     "敦煌实验方法/实现方法",
     "敦煌实验方法/方案",
     "论文思路/科研思路.md",
@@ -222,7 +223,6 @@
     "敦煌实验方法",
     "敦煌智能体构建.md",
     "日记/1-7.md",
-    "论文思路/工具学习.md",
     "机器学习笔记",
     "Pasted image 20251208105245.png",
     "Pasted image 20251208105201.png",

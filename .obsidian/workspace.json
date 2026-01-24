@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文思路/多智能体协同决策/思路.md",
+                "file": "论文思路/多智能体协同决策/数据集选择.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思路"
+              "title": "数据集选择"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "right": {
     "id": "3dc3f736081c6fca",
@@ -194,6 +195,7 @@
   },
   "active": "69abfe6307124677",
   "lastOpenFiles": [
+    "论文思路/多智能体协同决策/思路.md",
     "论文思路/多智能体协同决策/数据集选择.md",
     "论文思路/多智能体协同决策/待读论文.md",
     "本周待办.md",
@@ -203,7 +205,6 @@
     "敦煌实验方法/实现指令.md",
     "敦煌实验方法/方案/日照工况.md",
     "论文思路/多智能体协同决策/组会计划.md",
-    "论文思路/多智能体协同决策/思路.md",
     "glowing/todolist.md",
     "glowing/总结.md",
     "glowing/开发笔记.md",

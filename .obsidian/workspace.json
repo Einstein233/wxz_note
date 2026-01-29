@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27f8208d84d1fb06",
+        "id": "578e9e2c4fad552d",
         "type": "tabs",
         "children": [
           {
-            "id": "69abfe6307124677",
+            "id": "a2ec45e99d5210e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glowing/记录/2026.1.29多模态功能实现.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026.1.29多模态功能实现"
+              "title": "新标签页"
             }
           }
         ]
@@ -192,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69abfe6307124677",
+  "active": "a2ec45e99d5210e5",
   "lastOpenFiles": [
-    "glowing/资料.md",
     "glowing/记录/2026.1.29多模态功能实现.md",
+    "glowing/资料.md",
     "glowing/开发笔记.md",
     "glowing/总结.md",
     "本周待办.md",

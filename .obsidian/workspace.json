@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文思路/多智能体协同决策/思路.md",
+                "file": "本周待办.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "思路"
+              "title": "本周待办"
             }
           }
         ]
@@ -192,15 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ec45e99d5210e5",
+  "active": "3479297a58656546",
   "lastOpenFiles": [
-    "论文思路/多智能体协同决策/实验记录.md",
+    "glowing/todolist.md",
     "glowing/总结.md",
     "glowing/资料.md",
     "glowing/开发笔记.md",
+    "论文思路/多智能体协同决策/思路.md",
+    "论文思路/多智能体协同决策/实验记录.md",
     "glowing/记录/2026.1.29多模态功能实现.md",
     "本周待办.md",
-    "论文思路/多智能体协同决策/思路.md",
     "论文思路/多智能体协同决策/数据集选择.md",
     "论文思路/多智能体协同决策/待读论文.md",
     "敦煌实验方法/实现方法/实现细节.md",
@@ -209,7 +210,6 @@
     "敦煌实验方法/实现指令.md",
     "敦煌实验方法/方案/日照工况.md",
     "论文思路/多智能体协同决策/组会计划.md",
-    "glowing/todolist.md",
     "论文思路/ToM方向/组会要求.md",
     "常用指令库/阅读论文.md",
     "常用指令库/常用文档生成指令.md",

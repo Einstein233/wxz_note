@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "578e9e2c4fad552d",
+        "id": "740df501555eb5ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ec45e99d5210e5",
+            "id": "8b6172de320b43d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,10 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ec45e99d5210e5",
+  "active": "8b6172de320b43d6",
   "lastOpenFiles": [
-    "本周待办.md",
+    "未命名.base",
     "敦煌实验方法/敦煌论文思路.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "本周待办.md",
     "智能体开发技术.md",
     "论文思路/多智能体协同决策/实验记录.md",
     "论文思路/多智能体协同决策/待读论文.md",
@@ -225,15 +228,11 @@
     "敦煌实验方法/方案/降雨工况.md",
     "敦煌实验方法/实现方法",
     "敦煌实验方法/方案",
-    "大模型技术学习/vLLM.md",
     "敦煌实验方法",
     "机器学习笔记",
     "Pasted image 20251208105245.png",
     "Pasted image 20251208105201.png",
     "Pasted image 20251208105110.png",
-    "Pasted image 20251208105104.png",
-    "glowing/记录",
-    "glowing/资料",
-    "常用指令库"
+    "Pasted image 20251208105104.png"
   ]
 }

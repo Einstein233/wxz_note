@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能体开发技术.md",
+                "file": "本周待办.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "智能体开发技术"
+              "title": "本周待办"
             }
           }
         ]
@@ -195,9 +195,9 @@
   "active": "8b6172de320b43d6",
   "lastOpenFiles": [
     "你好，测试。.md",
+    "智能体开发技术.md",
     "实习/简历投递.md",
     "大模型技术学习/vLLM.md",
-    "智能体开发技术.md",
     "敦煌实验方法/敦煌论文思路.md",
     "实习/面试经验.md",
     "论文思路/多智能体协同决策/组会计划.md",

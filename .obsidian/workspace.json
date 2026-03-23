@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型技术学习/vllm命令.md",
+                "file": "智能体开发技术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vllm命令"
+              "title": "智能体开发技术"
             }
           }
         ]
@@ -168,8 +168,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -182,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fix-math:Current file": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -196,10 +197,10 @@
   "lastOpenFiles": [
     "你好，测试。.md",
     "智能体开发技术.md",
+    "大模型技术学习/vllm命令.md",
     "本周待办.md",
     "大模型技术学习/项目文件.md",
     "大模型技术学习/vLLM.md",
-    "大模型技术学习/vllm命令.md",
     "实习/面试经验.md",
     "实习/简历投递.md",
     "敦煌实验方法/敦煌论文思路.md",

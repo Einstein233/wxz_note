@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型技术学习/项目文件.md",
+                "file": "大模型技术学习/vllm命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目文件"
+              "title": "vllm命令"
             }
           }
         ]
@@ -194,14 +194,14 @@
   },
   "active": "8b6172de320b43d6",
   "lastOpenFiles": [
-    "大模型技术学习/vLLM.md",
-    "大模型技术学习/项目文件.md",
-    "大模型技术学习/vllm命令.md",
     "你好，测试。.md",
     "智能体开发技术.md",
+    "本周待办.md",
+    "大模型技术学习/项目文件.md",
+    "大模型技术学习/vLLM.md",
+    "大模型技术学习/vllm命令.md",
     "实习/面试经验.md",
     "实习/简历投递.md",
-    "本周待办.md",
     "敦煌实验方法/敦煌论文思路.md",
     "论文思路/多智能体协同决策/组会计划.md",
     "论文思路/多智能体协同决策/思路.md",

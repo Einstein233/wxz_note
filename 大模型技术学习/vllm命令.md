@@ -1,11 +1,6 @@
 **通过vllm运行模型的命令**
 3号显卡，qwen3-8b的模型，占本卡85%的内存，最大上下文长度，端口80，运行模式
-CUDA_VISIBLE_DEVICES=3 python -m vllm.entrypoints.openai.api_server \
-    --model Qwen/Qwen3-8B \
-    --gpu-memory-utilization 0.85 \
-    --max-model-len 8192 \
-    --port 8000 \
-    --enforce-eager
+CUDA_VISIBLE_DEVICES=3 python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-8B --gpu-memory-utilization 0.85 --max-model-len 8192 --port 8000 --enforce-eager
 
 **模型调用测试命令**
 curl http://localhost:8000/v1/chat/completions \

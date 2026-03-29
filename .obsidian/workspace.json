@@ -168,8 +168,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -182,7 +182,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "fix-math:Current file": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -193,16 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3479297a58656546",
+  "active": "8b6172de320b43d6",
   "lastOpenFiles": [
     "实习/小米三轮面试准备/自我介绍内容.md",
     "实习/小米三轮面试准备",
-    "实习 - 快捷方式.lnk",
-    "大模型技术学习/vLLM.md",
-    "大模型技术学习/项目文件.md",
-    "智能体开发技术.md",
     "你好，测试。.md",
+    "智能体开发技术.md",
     "本周待办.md",
+    "大模型技术学习/项目文件.md",
+    "大模型技术学习/vLLM.md",
     "大模型技术学习/vllm命令.md",
     "实习/面试经验.md",
     "实习/简历投递.md",
@@ -231,6 +229,7 @@
     "论文思路/多智能体协同决策",
     "论文思路/ToM方向",
     "敦煌实验方法/实现方法",
+    "敦煌实验方法/方案",
     "Pasted image 20251208105245.png",
     "Pasted image 20251208105201.png",
     "Pasted image 20251208105110.png",

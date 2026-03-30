@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e48a861f6fd0469",
+        "id": "5794c133974d09ab",
         "type": "tabs",
         "children": [
           {
-            "id": "dc27ef6130d2baca",
+            "id": "d28232fe7adbe56c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "本周待办.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
+              "icon": "lucide-file",
+              "title": "本周待办"
             }
           }
         ]
@@ -191,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc27ef6130d2baca",
+  "active": "d28232fe7adbe56c",
   "lastOpenFiles": [
     "未命名.canvas",
     "大模型技术学习/vllm命令.md",

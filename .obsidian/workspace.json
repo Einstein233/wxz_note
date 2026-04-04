@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实习/简历投递.md",
+                "file": "你好，测试。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简历投递"
+              "title": "你好，测试。"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "5e7514a31ebdbc02",
   "lastOpenFiles": [
-    "实习/面试经验.md",
+    "敦煌实验方法/实现方法/方案.md",
+    "敦煌实验方法/实现方法/实现细节.md",
     "实习/简历投递.md",
+    "实习/面试经验.md",
     "你好，测试。.md",
     "智能体开发技术.md",
     "本周待办.md",
@@ -220,8 +222,6 @@
     "未命名 1.base",
     "vggt/## 代码笔记.md",
     "vggt",
-    "敦煌实验方法/实现方法/方案.md",
-    "敦煌实验方法/实现方法/实现细节.md",
     "glowing/todolist.md",
     "glowing/总结.md",
     "glowing/资料.md",

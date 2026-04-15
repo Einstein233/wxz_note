@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实习/python面经.md",
+                "file": "实习/模拟面试记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python面经"
+              "title": "模拟面试记录"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "4d0d20e48dbdc649",
   "lastOpenFiles": [
     "实习/面经.md",
+    "实习/模拟面试记录.md",
     "实习/python面经.md",
     "敦煌/数据库+智能体/todolist.md",
     "敦煌/数据库+智能体/实际数据库设计.md",
@@ -231,7 +232,6 @@
     "敦煌/敦煌论文思路.md",
     "论文思路/多智能体协同决策/组会计划.md",
     "论文思路/多智能体协同决策/思路.md",
-    "论文思路/多智能体协同决策/数据集选择.md",
     "实习",
     "未命名.base",
     "未命名 2.base",

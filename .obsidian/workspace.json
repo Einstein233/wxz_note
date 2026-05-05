@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "论文思路/社会化agent/论文/协作推理-自我提升社会agent.pdf"
+                "file": "论文思路/社会化agent/论文/综述：The Rise and Potential of Large Language Model Based Agents A Survey.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "协作推理-自我提升社会agent"
+              "title": "综述：The Rise and Potential of Large Language Model Based Agents A Survey"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 487.5085258483887
   },
   "right": {
     "id": "3dc3f736081c6fca",
@@ -193,10 +193,11 @@
   },
   "active": "3479297a58656546",
   "lastOpenFiles": [
+    "论文思路/社会化agent/论文/协作推理-自我提升社会agent.pdf",
+    "论文思路/社会化agent/论文/综述：The Rise and Potential of Large Language Model Based Agents A Survey.pdf",
     "论文思路/社会化agent/论文/agentsociety.pdf",
     "论文思路/社会化agent/论文",
     "论文思路/社会化agent/社会化agent.md",
-    "论文思路/社会化agent/论文/协作推理-自我提升社会agent.pdf",
     "论文思路/社会化agent/论文/2505.16557v2.pdf",
     "论文思路/社会化agent",
     "实习/美团面试准备.md",
@@ -232,7 +233,6 @@
     "实习/简历投递.md",
     "未命名.canvas",
     "大模型技术学习/vllm命令.md",
-    "实习/小米三轮面试准备",
     "Pasted image 20251208105245.png",
     "Pasted image 20251208105201.png",
     "Pasted image 20251208105110.png",

@@ -25,14 +25,12 @@
             "id": "0751b38779890473",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "论文思路/社会化agent/社会化agent.md",
-                "mode": "source",
-                "source": false
+                "file": "论文思路/社会化agent/论文/agentsociety.pdf"
               },
-              "icon": "lucide-file",
-              "title": "社会化agent"
+              "icon": "lucide-file-text",
+              "title": "agentsociety"
             }
           }
         ],
@@ -210,13 +208,13 @@
   },
   "active": "0751b38779890473",
   "lastOpenFiles": [
-    "论文思路/社会化agent/社会化agent.md.tmp.136268.1777995079020",
-    "论文思路/社会化agent/社会化agent.md",
-    "论文思路/社会化agent/论文/agentsociety.pdf",
-    "论文思路/社会化agent/论文/综述：The Rise and Potential of Large Language Model Based Agents A Survey.pdf",
     "论文思路/社会化agent/论文/协作推理-自我提升社会agent.pdf",
+    "论文思路/社会化agent/论文/综述：The Rise and Potential of Large Language Model Based Agents A Survey.pdf",
+    "论文思路/社会化agent/论文/s Your LLM-Based Multi-Agent a Reliable Real-World Planner Exploring Fraud Detection in Travel Planning.pdf",
+    "论文思路/社会化agent/社会化agent.md",
+    "论文思路/社会化agent/社会化agent.md.tmp.136268.1777995079020",
+    "论文思路/社会化agent/论文/agentsociety.pdf",
     "论文思路/社会化agent/论文",
-    "论文思路/社会化agent/论文/2505.16557v2.pdf",
     "论文思路/社会化agent",
     "实习/美团面试准备.md",
     "实习/python面经.md",
@@ -241,7 +239,6 @@
     "面试复盘笔记",
     "项目/军交项目-深化.md",
     "照片/Pasted image 20260407092929.png",
-    "照片",
     "Pasted image 20260407092310.png",
     "Pasted image 20260407092313.png",
     "项目/敦煌项目-重构.md",
